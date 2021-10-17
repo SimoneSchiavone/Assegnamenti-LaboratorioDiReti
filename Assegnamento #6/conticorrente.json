@@ -1,0 +1,304 @@
+[
+  {
+    "ID": 1,
+    "Nome": "Italo",
+    "Cognome": "Gallo",
+    "Movimenti": [
+      {
+        "Anno": 2020,
+        "Mese": 4,
+        "Giorno": 4,
+        "Causale": "F24",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Nome": "Giovanni",
+    "Cognome": "Cattaneo",
+    "Movimenti": [
+      {
+        "Anno": 2020,
+        "Mese": 4,
+        "Giorno": 10,
+        "Causale": "PagoBancomat",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2020,
+        "Mese": 8,
+        "Giorno": 28,
+        "Causale": "PagoBancomat",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 3,
+        "Giorno": 22,
+        "Causale": "Bonifico",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Nome": "Luca",
+    "Cognome": "Lettiere",
+    "Movimenti": [
+      {
+        "Anno": 2019,
+        "Mese": 1,
+        "Giorno": 16,
+        "Causale": "Bonifico",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 2,
+        "Giorno": 12,
+        "Causale": "Bollettino",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 8,
+        "Giorno": 13,
+        "Causale": "Bonifico",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2020,
+        "Mese": 6,
+        "Giorno": 27,
+        "Causale": "Bonifico",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 4,
+        "Giorno": 7,
+        "Causale": "PagoBancomat",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2020,
+        "Mese": 8,
+        "Giorno": 20,
+        "Causale": "Bollettino",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "Nome": "Flavio",
+    "Cognome": "Carlotti",
+    "Movimenti": [
+      {
+        "Anno": 2020,
+        "Mese": 8,
+        "Giorno": 20,
+        "Causale": "F24",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 11,
+        "Giorno": 3,
+        "Causale": "F24",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 2,
+        "Giorno": 10,
+        "Causale": "Bollettino",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 6,
+        "Giorno": 1,
+        "Causale": "Bonifico",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2020,
+        "Mese": 5,
+        "Giorno": 27,
+        "Causale": "Accredito",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "Nome": "Giacomo",
+    "Cognome": "Arcuri",
+    "Movimenti": [
+      {
+        "Anno": 2019,
+        "Mese": 5,
+        "Giorno": 1,
+        "Causale": "F24",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "Nome": "Flavio",
+    "Cognome": "Carlotti",
+    "Movimenti": [
+      {
+        "Anno": 2019,
+        "Mese": 7,
+        "Giorno": 9,
+        "Causale": "Bollettino",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2020,
+        "Mese": 4,
+        "Giorno": 1,
+        "Causale": "Bonifico",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 4,
+        "Giorno": 16,
+        "Causale": "PagoBancomat",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      },
+      {
+        "Anno": 2019,
+        "Mese": 6,
+        "Giorno": 22,
+        "Causale": "PagoBancomat",
+        "ListaCausali": [
+          "Bonifico",
+          "Accredito",
+          "Bollettino",
+          "F24",
+          "PagoBancomat"
+        ]
+      }
+    ]
+  }
+]
